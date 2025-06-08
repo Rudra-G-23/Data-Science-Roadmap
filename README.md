@@ -2,17 +2,29 @@
 
 ---
 
+🏗️ Under Construction 😁
+
+
+---
+
 # L1. Foundation
 ## L1.1 Python
+- https://github.com/Rudra-G-23/Python-Fundamentals
 ## L1.2 Math
+- https://github.com/Rudra-G-23/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-By-DeepLearning.AI
 ## L1.3 Tools
+- https://github.com/Rudra-G-23/Data-Manipulation-with-Python
 
 ---
 
 # L2. ML
 ## L2.1 ML Algorithm
+- https://github.com/Rudra-G-23/100-Days-of-ML
 ## L2.2 ML Techniques  
+- https://github.com/Rudra-G-23/100-Days-of-ML
 ## L2.3 Projects
+- https://github.com/Rudra-G-23/data-science-projects
+
 
 
 ---
