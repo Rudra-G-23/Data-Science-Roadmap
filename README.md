@@ -16,6 +16,8 @@
 - https://github.com/Rudra-G-23/Data-Manipulation-with-Python
 - https://github.com/Rudra-G-23/Play-with-Data
 - https://github.com/Rudra-G-23/Know-Your-Data
+- https://github.com/rougier/numpy-100
+- https://github.com/ajcr/100-pandas-puzzles
 
 ---
 
