@@ -64,6 +64,7 @@
 - https://github.com/Rudra-G-23/Roadmap-of-Gen-AI/
 - https://github.com/Rudra-G-23/AI-Engineering-Resources/
 ## L5.2 LLM Models
+- https://github.com/Rudra-G-23/genertive-ai-using-langchain
 ## L5.3 Projects
 - https://github.com/Rudra-G-23/data-science-projects
 
