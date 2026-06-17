@@ -66,6 +66,7 @@
 ## L5.2 LLM Models
 - https://github.com/Rudra-G-23/genertive-ai-using-langchain
 - https://github.com/Rudra-G-23/agentic-ai-using-langgraph
+- https://github.com/Rudra-G-23/llm-evaluations
 ## L5.3 Projects
 - https://github.com/Rudra-G-23/data-science-projects
 
